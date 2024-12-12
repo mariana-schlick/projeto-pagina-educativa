@@ -34,4 +34,6 @@ Todas as artes visuais dos jogos foram criadas exclusivamente para este projeto,
 As ilustrações incluem personagens, cenários e animações originais, criando uma experiência imersiva e envolvente para os usuários.
 
 ## Licença
-Este projeto está licenciado sob a *MIT License*.
+
+Este trabalho está licenciado sob uma Licença Creative Commons - Atribuição – Não Comercial. Você pode copiar, distribuir e exibir o material, 
+mas não pode usá-lo para fins comerciais. Além disso, você não pode alterar ou criar obras derivadas sem a permissão do autor.
