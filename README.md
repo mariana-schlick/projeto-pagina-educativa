@@ -33,7 +33,3 @@ e engajar os usuários para a conservação da vida marinha e dos recursos natur
 Todas as artes visuais dos jogos foram criadas exclusivamente para este projeto, com o intuito de refletir a beleza das baleias e dos oceanos. 
 As ilustrações incluem personagens, cenários e animações originais, criando uma experiência imersiva e envolvente para os usuários.
 
-## Licença
-
-Este trabalho está licenciado sob uma Licença Creative Commons - Atribuição – Não Comercial. Você pode copiar, distribuir e exibir o material, 
-mas não pode usá-lo para fins comerciais. Além disso, você não pode alterar ou criar obras derivadas sem a permissão do autor.
